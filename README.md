@@ -1,2 +1,2 @@
 # proteinLLM
-Initial working llm for protein database
+Initial working llm for protein database.
